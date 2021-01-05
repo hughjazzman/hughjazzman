@@ -4,14 +4,15 @@ I'm Wira, currently a 2nd year undergraduate at National University of Singapore
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wira-azmoon-4a2198194/)
 
-I'm interested in solving problems.
+I'm interested in solving puzzles.
 
-- 🔭 I’m currently working on Duke, a CLI Software Engineering Project.
-- 🌱 I’m currently learning about Real-Time Operating Systems.
+- 🌱 I’m currently learning about Signals & Systems, Transistor-Level Digital Circuits, Computer Organization, Information Security, Design & Analysis of Algorithms, Machine Learning, and Computer Networks.
 - 👯 I’m looking to collaborate on Software Development projects to apply what I have learnt.
 
 ### Past Projects
 
+- [CLIrcuit Assistant](https://ay2021s1-cs2113t-w13-3.github.io/tp/), a desktop app to implement and solve simple circuits, optimized for use via the Command Line Interface (CLI).
+- [RTOS-based robotic car](https://github.com/hughjazzman/CG2271), using a FRDM-KL25Z with Keil RTX, controlled via an Android App.
 - [Knewbie](https://github.com/Orbital-Knewbie/Knewbie), a Web Application that is built using Flask and makes use of machine learning (Computerized Adaptive Testing) to provide tailored educational content.
   - From a total of 383 projects, Knewbie was 1 of 6 projects selected by the School of Computing (SoC) communication office, National University of Singapore (NUS) and was [featured on the various social media accounts](https://www.linkedin.com/feed/update/urn:li:activity:6703488818370215936/).
 - [Sound Design & Entertainment System](https://github.com/hughjazzman/EE2026-FPGA-Project), using Verilog on a Basys3 Board.
