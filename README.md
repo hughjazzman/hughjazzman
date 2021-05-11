@@ -11,6 +11,7 @@ I'm interested in solving puzzles.
 
 ### Past Projects
 
+- [Fake News Detection](https://github.com/CS3244-MachineLearning-Project-AY2021/Fake_News_Detection/blob/master/Detection_of_Fake_News_Using_Supervised_Learning_Techniques.pdf), to detect fake news with known machine learning models, algorithms, and techniques. 
 - [CLIrcuit Assistant](https://ay2021s1-cs2113t-w13-3.github.io/tp/), a desktop app to implement and solve simple circuits, optimized for use via the Command Line Interface (CLI).
 - [RTOS-based robotic car](https://github.com/hughjazzman/CG2271), using a FRDM-KL25Z with Keil RTX, controlled via an Android App.
 - [Knewbie](https://github.com/Orbital-Knewbie/Knewbie), a Web Application that is built using Flask and makes use of machine learning (Computerized Adaptive Testing) to provide tailored educational content.
@@ -22,7 +23,7 @@ I'm interested in solving puzzles.
 ### Contribution Statistics
 
 [![Wira's Github Stats](https://github-readme-stats.vercel.app/api?username=hughjazzman&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Wira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hughjazzman&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Wira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hughjazzman&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **hughjazzman/hughjazzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
