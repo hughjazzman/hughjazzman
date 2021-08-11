@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Wira, currently a 2nd year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering).
+I'm Wira, currently a 3rd year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering).
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wira-azmoon-4a2198194/)
 
 I'm interested in solving puzzles.
 
-- 🌱 I’m currently learning about Signals & Systems, Transistor-Level Digital Circuits, Computer Organization, Information Security, Design & Analysis of Algorithms, Machine Learning, and Computer Networks.
+- 🌱 I’m currently learning about Computer Security, Intelligent Robots, Algorithmic Mechanism Design, and Mathematical Finance.
 - 👯 I’m looking to collaborate on Software Development projects to apply what I have learnt.
 
 ### Past Projects
