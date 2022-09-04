@@ -1,29 +1,52 @@
-### Hi there 👋
+## Hi there 👋
 
-I'm Wira, currently a 3rd year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering).
+I'm Wira, a final year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering). I am interested in research into Reinforcement Learning, as well as its broader application into real products such as autonomous vehicles.
 
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wira-azmoon-4a2198194/)
+<div align="center">
+      <a href="https://www.linkedin.com/in/wira-azmoon-4a2198194">
+            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      &nbsp; &nbsp; &nbsp;
+      <a href="https://hughjazzman.github.io/">
+            <img src="https://img.shields.io/badge/portfolio-white?&style=for-the-badge&logo=slickpic&logoColor=black">
+      </a>
+</div>
+<br>
 
-I'm interested in solving puzzles.
+- 🔭 I’m currently working on improving Multi-Agent Strategy Learning in Reinforcement Learning.
+- 🔭 I’m currently working on the Hardware AI component of a Computer Engineering Capstone project implementing Laser Tag.
+- 🌱 I’m currently learning about [AI Planning & Decision Making](https://nusmods.com/modules/CS4246/ai-planning-and-decision-making), [Uncertainty Modelling in AI](https://nusmods.com/modules/CS5340/uncertainty-modelling-in-ai), and the [Internet of Things](https://nusmods.com/modules/CS3237/introduction-to-internet-of-things).
+- 🤔 I’m looking for help with getting into graduate school!
+- 💬 Ask me about my experience as a Teaching Assistant!
 
-- 🌱 I’m currently learning about Computer Security, Intelligent Robots, Algorithmic Mechanism Design, and Mathematical Finance.
-- 👯 I’m looking to collaborate on Software Development projects to apply what I have learnt.
+## Current Projects
 
-### Past Projects
+- Multi-agent strategy learning in reinforcement learning, as part of my Final Year Project.
+- Laser Tag++, as part of [CG4002 Computer Engineering Capstone Project](https://nusmods.com/modules/CG4002/computer-engineering-capstone-project).
 
-- [Fake News Detection](https://github.com/CS3244-MachineLearning-Project-AY2021/Fake_News_Detection/blob/master/Detection_of_Fake_News_Using_Supervised_Learning_Techniques.pdf), to detect fake news with known machine learning models, algorithms, and techniques. 
-- [CLIrcuit Assistant](https://ay2021s1-cs2113t-w13-3.github.io/tp/), a desktop app to implement and solve simple circuits, optimized for use via the Command Line Interface (CLI).
-- [RTOS-based robotic car](https://github.com/hughjazzman/CG2271), using a FRDM-KL25Z with Keil RTX, controlled via an Android App.
-- [Knewbie](https://github.com/Orbital-Knewbie/Knewbie), a Web Application that is built using Flask and makes use of machine learning (Computerized Adaptive Testing) to provide tailored educational content.
-  - From a total of 383 projects, Knewbie was 1 of 6 projects selected by the School of Computing (SoC) communication office, National University of Singapore (NUS) and was [featured on the various social media accounts](https://www.linkedin.com/feed/update/urn:li:activity:6703488818370215936/).
-- [Sound Design & Entertainment System](https://github.com/hughjazzman/EE2026-FPGA-Project), using Verilog on a Basys3 Board.
-- [Alex](https://github.com/hughjazzman/alex-4-1-2), a Search and Rescue robot with remote navigation built using Raspberry Pi and Arduino.
-- [mBot](https://github.com/hughjazzman/mBot), a robot calibrated to navigate a maze automatically based on audiovisual cues using Arduino.
+## Selected Projects
 
-### Contribution Statistics
+<p align="center">
+    <a href="https://github.com/Orbital-Knewbie/Knewbie">
+        <img src="https://img.shields.io/badge/Knewbie-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/hughjazzman/EE2026-FPGA-Project">
+        <img src="https://img.shields.io/badge/FPGA-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://ay2021s1-cs2113t-w13-3.github.io/tp/">
+        <img src="https://img.shields.io/badge/CLIrcuit-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+</p>
+<br>
 
-[![Wira's Github Stats](https://github-readme-stats.vercel.app/api?username=hughjazzman&count_private=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Wira's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hughjazzman&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)-->
+## Work Experience
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/wira-azmoon-4a2198194">
+        <img src="https://img.shields.io/badge/JP_Morgan_Chase-darkblue?labelColor=007DB8&style=for-the-badge" /> &nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/badge/Desay_SV_Automotive-critical?labelColor=000000&style=for-the-badge" />
+    </a>
+</p>
+
 <!--
 **hughjazzman/hughjazzman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
