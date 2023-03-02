@@ -13,16 +13,14 @@ I'm Wira, a final year undergraduate at National University of Singapore (NUS), 
 </div>
 <br>
 
-- 🔭 I’m currently working on improving Multi-Agent Strategy Learning in Reinforcement Learning.
-- 🔭 I’m currently working on the Hardware AI component of a Computer Engineering Capstone project implementing Laser Tag.
-- 🌱 I’m currently learning about [AI Planning & Decision Making](https://nusmods.com/modules/CS4246/ai-planning-and-decision-making), [Uncertainty Modelling in AI](https://nusmods.com/modules/CS5340/uncertainty-modelling-in-ai), and the [Internet of Things](https://nusmods.com/modules/CS3237/introduction-to-internet-of-things).
+- 🔭 I’m currently working on improving Communication within Multi-Agent Strategy Learning in Reinforcement Learning.
+- 🌱 I’m currently learning about [Investment Instruments & Risk Management](https://nusmods.com/modules/QF3101/investment-instrument-and-risk-management).
 - 🤔 I’m looking for help with getting into graduate school!
 - 💬 Ask me about my experience as a Teaching Assistant!
 
 ## Current Projects
 
-- Multi-agent strategy learning in reinforcement learning, as part of my Final Year Project.
-- Laser Tag++, as part of [CG4002 Computer Engineering Capstone Project](https://nusmods.com/modules/CG4002/computer-engineering-capstone-project).
+- Communication within multi-agent strategy learning in reinforcement learning, as part of my Final Year Project.
 
 ## Selected Projects
 
@@ -35,6 +33,9 @@ I'm Wira, a final year undergraduate at National University of Singapore (NUS), 
     </a>
     <a href="https://ay2021s1-cs2113t-w13-3.github.io/tp/">
         <img src="https://img.shields.io/badge/CLIrcuit-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://drive.google.com/file/d/1ZHfncXijHxeAJU9cIamKhOLc5jEAJybn/view">
+        <img src="https://img.shields.io/badge/LaserTag++-202020?labelColor=green&style=for-the-badge&logo=googledrive&logoColor=white" />
     </a>
 </p>
 <br>
