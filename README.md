@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Wira, a final year undergraduate at National University of Singapore (NUS), pursuing a Bachelor of Engineering (BEng) (Computer Engineering). I am interested in research into Reinforcement Learning, as well as its broader application into real products such as autonomous vehicles.
+I'm Wira, a graduate from National University of Singapore (NUS), with a Bachelor of Engineering (BEng) (Computer Engineering). I am interested in research into Reinforcement Learning, as well as its broader application into real products such as autonomous vehicles.
 
 <div align="center">
       <a href="https://www.linkedin.com/in/wira-azmoon-4a2198194">
@@ -13,26 +13,24 @@ I'm Wira, a final year undergraduate at National University of Singapore (NUS), 
 </div>
 <br>
 
-- 🔭 I’m currently working on improving Communication within Multi-Agent Strategy Learning in Reinforcement Learning.
+- 🔭 My Final Year Project was on [Communication within Multi-Agent Strategy Learning in Reinforcement Learning](https://github.com/edu-ai/epymarl/blob/main/Wira_FYP_Final_Report.pdf).
 - 🌱 I’m currently learning about [Investment Instruments & Risk Management](https://nusmods.com/modules/QF3101/investment-instrument-and-risk-management).
 - 🤔 I’m looking for help with getting into graduate school!
-- 💬 Ask me about my experience as a Teaching Assistant!
+- 💬 Ask me about my experience as a [Teaching Assistant](https://hughjazzman.github.io/#three)!
 
-## Current Projects
-
-- Communication within multi-agent strategy learning in reinforcement learning, as part of my Final Year Project.
+<!-- ## Current Projects -->
 
 ## Selected Projects
 
 <p align="center">
+    <a href="https://github.com/edu-ai/epymarl/blob/main/Wira_FYP_Final_Report.pdf">
+        <img src="https://img.shields.io/badge/FYP-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
+    </a>
     <a href="https://github.com/Orbital-Knewbie/Knewbie">
         <img src="https://img.shields.io/badge/Knewbie-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://github.com/hughjazzman/EE2026-FPGA-Project">
         <img src="https://img.shields.io/badge/FPGA-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://ay2021s1-cs2113t-w13-3.github.io/tp/">
-        <img src="https://img.shields.io/badge/CLIrcuit-202020?labelColor=000000&style=for-the-badge&logo=github&logoColor=white" />
     </a>
     <a href="https://drive.google.com/file/d/1ZHfncXijHxeAJU9cIamKhOLc5jEAJybn/view">
         <img src="https://img.shields.io/badge/LaserTag++-202020?labelColor=green&style=for-the-badge&logo=googledrive&logoColor=white" />
